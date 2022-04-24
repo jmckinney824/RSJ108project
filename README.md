@@ -31,14 +31,14 @@ Add your introduction to your step-by-step-guide, including a title, time requir
         <div class="introduction">
 
           <div class="information">
-            <h1>How to make an awesome ...</h1>
+            <h1>Making Auto Captions in Adobe Premiere</h1>
 
             <hr>
-            <p><b>Assembly time:</b> 30 minutes<br>
-              <b>Awesome rating:</b> 10% awesome</p>
+            <p><b>Assembly time:</b> 5-10 minutes<br>
+              <b>Awesome rating:</b> 100% awesome</p>
             <hr>
 
-            <p>Are you wondering how to make a cool rocket that can easily surpass a baking soda-vinegar rocket? It's really fun to make. Why don't you try to make it yourself? Follow the steps and you'll make a great rocket!</p>
+            <p>Captioning your videos is important for many reasons. Not only does it help your deaf and hard-of-hearing audience or people with other visual or learning disabilities, but a surprising amount of people watch videos on their phones (or other devices) without the sound turned on. When you don't include captions you are turning away much of your audience and telling them your content doesn't consider them.</p>
 
           </div>
 
