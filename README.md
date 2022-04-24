@@ -317,7 +317,7 @@ Customise the visual style and appearance of your guide.
       hr {
         border: 0; 
         height: 0; 
-        border-top: 1px solid #D3E3E8; 
+        border-top: 1px solid #5BF000; 
       }
 
 
