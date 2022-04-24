@@ -95,7 +95,7 @@ This block contains a photo and has a caption.
 We have used a <div> to group and position the flickr photo
 with a paragraph to create a photo with a caption.
 -->
-              <a href="https://www.canva.com/design/DAE-1RzIRX8/iLFv29u_FU75ilwCuTxisQ/view?utm_content=DAE-1RzIRX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img alt="Screenshot of making auto captions in Adobe Premiere" height="%" width="%" src="https://www.canva.com/design/DAE-1RzIRX8/iLFv29u_FU75ilwCuTxisQ/view?utm_content=DAE-1RzIRX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></a>
+              <a href="https://www.canva.com/design/DAE-1RzIRX8/iLFv29u_FU75ilwCuTxisQ/view?utm_content=DAE-1RzIRX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img alt="Screenshot of making auto captions in Adobe Premiere" height="315" width="560" src="https://www.canva.com/design/DAE-1RzIRX8/iLFv29u_FU75ilwCuTxisQ/view?utm_content=DAE-1RzIRX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></a>
               <p class="caption">Screenshot of making auto captions in Adobe Premiere.</p>
             </div>
           </li>
@@ -103,8 +103,8 @@ with a paragraph to create a photo with a caption.
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Make a hole through the cork so that the bicycle pump can easily fit into it.</h3>
-              <p>Fix the pump tube to it with plasticine.</p>
+              <h3>Create Captions</h3>
+              <p>Once the transcript has finished, you can click "Create captions". This will also take a moment to load.</p>
 
 
               <iframe width="560" height="315" src="https://www.youtube.com/embed/tntOCGkgt98" frameborder="0" allowfullscreen></iframe>
@@ -115,20 +115,26 @@ with a paragraph to create a photo with a caption.
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Invert the bottle and cut three flippers of cardboard.</h3>
-              <p>This is necessary to hold the rocket at launch time. Make your best design.</p> 
+              <h3>Edit Captions</h3>
+              <p>Auto transription isn't perfect. If the words are hard for you to understand, they're hard for the program to understand. So you may need to edit the captions. You where the captions are in the timeline. Again, the program does its best, but where a new caption starts or ends may not make sense. You can change that. This step is ideal, but not always needed. Having mostly correct captions is more than nothing, so if you have a super long video and don't have time to perfect the captions that's ok. The auto captions work pretty well!</p> 
             </div>
           </li>
 
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Invert the bottle and cut three flippers of cardboard.</h3>
-              <p>This is necessary to hold the rocket at launch time. Make your best design.</p> 
+              <h3>Edit Text</h3>
+              <p>This is also not a necessary step but you can edit the font, color, size, and location of the captions just like you would any other text box.</p> 
             </div>
           </li>
 
-
+          <!-- A new step -->
+          <li>
+            <div class="content">
+              <h3>Export Video</h3>
+              <p>Export your video as you normally would. You will see options for captions in the export window. You can burn the captions into the video, meaning they are always part of the video, or you can download them as a separate file.</p> 
+            </div>
+          </li> 
 
         </ol>
 
