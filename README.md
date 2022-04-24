@@ -43,7 +43,7 @@ Add your introduction to your step-by-step-guide, including a title, time requir
             <h1>Making Auto Captions in Adobe Premiere</h1>
 
             <hr>
-            <p><b>Assembly time:</b> 5-10 minutes<br>
+            <p><b>Assembly time:</b> 5 minutes or much longer<br>
               <b>Awesome rating:</b> 100% awesome</p>
             <hr>
 
@@ -95,7 +95,7 @@ This block contains a photo and has a caption.
 We have used a <div> to group and position the flickr photo
 with a paragraph to create a photo with a caption.
 -->
-              <a href="http://www.flickr.com/photos/hucker/132609525/" title="2006-04-22 Yaeum Middle School Rocket Day 19 by Stephen Hucker, on Flickr"><img alt="2006-04-22 Yaeum Middle School Rocket Day 19" height="%" width="%" src="http://farm1.staticflickr.com/52/132609525_8e6452161d.jpg" ></a>
+              <a href="https://www.canva.com/design/DAE-1RzIRX8/iLFv29u_FU75ilwCuTxisQ/view?utm_content=DAE-1RzIRX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img alt="Screenshot of making auto captions in Adobe Premiere" height="%" width="%" src="https://www.canva.com/design/DAE-1RzIRX8/iLFv29u_FU75ilwCuTxisQ/view?utm_content=DAE-1RzIRX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></a>
               <p class="caption">Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
             </div>
           </li>
