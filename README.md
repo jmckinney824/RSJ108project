@@ -79,16 +79,16 @@ Add your steps. When you need a new step, copy and paste all of the code of an e
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Invert the bottle and cut three flippers of cardboard.</h3>
-              <p>This is necessary to hold the rocket at launch time. Make your best design.</p> 
+              <h3>Upload your video to Adobe Premiere</h3>
+              <p>Only version 15 and newer have this feature, so make sure you're using the right version.</p> 
             </div>
           </li>
 
           <!-- A new step -->
           <li>
             <div class="content">
-              <h3>Tape them all to the bottle at an angle of about 120 degrees between them.</h3>
-              <p>Remember, the bottle must be upside down and the flippers must not be taped at the bottle's base.</p>
+              <h3>Transcribe Sequence</h3>
+              <p>Go to the "Captions" tab and click "Transcribe sequence". Depending on the length of your video it can take less than a minute or much longer. Remember, to do this at the very end of editing. This should be the last step before exporting your video.</p>
 
               <!--
 This block contains a photo and has a caption.
