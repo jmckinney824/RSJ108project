@@ -1,4 +1,13 @@
-<head>
+<!doctype html>
+<html>
+  <head><meta name="data-remix-projectId" content="11097">
+<meta name="data-remix-projectTitle" content="Instruction Challenge">
+<meta name="data-remix-projectAuthor" content="khepworth">
+<meta name="data-remix-dateUpdated" content="2016-04-08T18:06:26.528Z">
+<meta name="data-remix-host" content="https://thimble.mozilla.org">
+<meta name="data-remix-readonly" content="null">
+
+    <meta charset="utf-8">
   <title>Jackie McKinney's Instruction Tips</title>
   <script src="https://thimble.mozilla.org/resources/remix/index.js" type="text/javascript"></script>
 </head>
