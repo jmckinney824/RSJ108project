@@ -199,7 +199,7 @@ Customise the visual style and appearance of your guide.
       header, footer {
         padding:5%;
         border:0 10%;
-        background-color:#A1D0EB;          /* CHANGE THE HEADER AND FOOTER COLOR HERE */
+        background-color:#4F10A3;          /* CHANGE THE HEADER AND FOOTER COLOR HERE */
         width:100%;
         margin:0px;        
       }
