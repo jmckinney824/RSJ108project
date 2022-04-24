@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
   <head><meta name="data-remix-projectId" content="11097">
 <meta name="data-remix-projectTitle" content="Instruction Challenge">
@@ -22,8 +22,7 @@ Replace the header contents:
 - replace 'Name of Site' with a new site name
 -->
 
-    <header>          
-      <img src="https://live.staticflickr.com/2702/4254408527_63d25c6b5b_c.jpg" width="100" align="right" height="100" alt="">            
+    <header>                
       <h1>Jackie McKinney's Instruction Tips</h1>
       <h3>An Instruction Challenge for JOUR108</h3>
 
