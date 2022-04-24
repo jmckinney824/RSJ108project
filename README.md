@@ -95,8 +95,8 @@ This block contains a photo and has a caption.
 We have used a <div> to group and position the flickr photo
 with a paragraph to create a photo with a caption.
 -->
-              <img alt="Screenshot of making auto captions in Adobe Premiere" height="%" width="%" src="https://www.canva.com/design/DAE-1RzIRX8/iLFv29u_FU75ilwCuTxisQ/view?utm_content=DAE-1RzIRX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></a>
-              <p class="caption">Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+              <a href="https://www.canva.com/design/DAE-1RzIRX8/iLFv29u_FU75ilwCuTxisQ/view?utm_content=DAE-1RzIRX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img alt="Screenshot of making auto captions in Adobe Premiere" height="%" width="%" src="https://www.canva.com/design/DAE-1RzIRX8/iLFv29u_FU75ilwCuTxisQ/view?utm_content=DAE-1RzIRX8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></a>
+              <p class="caption">Screenshot of making auto captions in Adobe Premiere.</p>
             </div>
           </li>
 
