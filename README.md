@@ -1,5 +1,6 @@
 <html>
-<title>Jackie McKinney's Instruction Tips</title>
+<head>
+  <title>Jackie McKinney's Instruction Tips</title>
   <script src="https://thimble.mozilla.org/resources/remix/index.js" type="text/javascript"></script>
 </head>
   <body>
