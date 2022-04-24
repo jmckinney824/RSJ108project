@@ -23,7 +23,7 @@ Replace the header contents:
 -->
 
     <header>          
-      <img src="https://flic.kr/p/7Krb1i" width="100" align="right" height="100" alt="">            
+      <img src="https://live.staticflickr.com/2702/4254408527_63d25c6b5b_c.jpg" width="100" align="right" height="100" alt="">            
       <h1>Jackie McKinney's Instruction Tips</h1>
       <h3>An Instruction Challenge for JOUR108</h3>
 
