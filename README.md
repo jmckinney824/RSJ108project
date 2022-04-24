@@ -13,7 +13,7 @@ Replace the header contents:
 -->
 
     <header>          
-      <img src="https://farm9.staticflickr.com/8697/16174797344_3c22e14ba4_o.png" width="100" align="right" height="100" alt="KH_monogram">            
+      <img src="https://flic.kr/p/7Krb1i" width="100" align="right" height="100" alt="KH_monogram">            
       <h1>Jackie McKinney's Instruction Tips</h1>
       <h3>An Instruction Challenge for JOUR108</h3>
 
