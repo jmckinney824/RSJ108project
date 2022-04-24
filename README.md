@@ -13,7 +13,7 @@ Replace the header contents:
 -->
 
     <header>          
-      <img src="https://flic.kr/p/7Krb1i" width="100" align="right" height="100" alt="KH_monogram">            
+      <img src="https://flic.kr/p/7Krb1i" width="100" align="right" height="100" alt="">            
       <h1>Jackie McKinney's Instruction Tips</h1>
       <h3>An Instruction Challenge for JOUR108</h3>
 
@@ -52,13 +52,10 @@ Add your Things You'll Need.
 -->         
             <ul class="list-of-items">
               <li><h2>Things You'll Need</h2></li>
-              <li>Bottle</li>
-              <li>Cardboard</li>
-              <li>Hand pump (bicycle)</li>
-              <li>Cork (vintage wines)</li>
-              <li>Duct Tape</li>
-              <li>Water</li>
-            </ul>
+                <li>PC or MAC</li>
+                <li>A video with talking</li>
+                <li>Adobe Premiere (version 15 or newer) </li>
+           </ul>
           </aside>
         </div>
 
