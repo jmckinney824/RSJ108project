@@ -145,9 +145,7 @@ with a paragraph to create a photo with a caption.
               <p>Export your video as you normally would. You will see options for captions in the export window. You can burn the captions into the video, meaning they are always part of the video, or you can download them as a separate file.</p> 
             </div>
           </li> 
-
-        </ol>
-
+       </ol>
       </article>
 
     </div>
@@ -160,9 +158,8 @@ Change the text and links in the footer of this page to acknowledge the sources 
 -->         
 
     <footer>
-      <p>The original how-to appeared in <a href="http://www.wikihow.com/Hide-Christmas/Birthday-Presents" title="How to Hide Christmas/Birthday Presents: 7 Steps - wikiHow">WikiHow</a>.</p>
-      <p>Images are by <a href="http://www.flickr.com/photos/puuikibeach/4655440844/" title="Aquapod™ Water Rocket Launcher in Action by puuikibeach, on Flickr">puuikibeach from Flickr</a></p>
-    </footer>
+      <p>Original how-to, photos, video by Jackie McKinney</p>
+          </footer>
 
     <!--
 TASK 6
