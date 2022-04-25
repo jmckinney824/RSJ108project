@@ -111,7 +111,7 @@ with a paragraph to create a photo with a caption.
             <div class="content">
               <h3>Create Captions</h3>
               <p>Once the transcript has finished, you can click "Create captions". This will also take a moment to load.</p>
-
+            </div>
           </li>
 
           <!-- A new step -->
@@ -146,6 +146,8 @@ with a paragraph to create a photo with a caption.
             </div>
           </li> 
        
+      
+      
         </ol>
     
       </article>
