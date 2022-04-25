@@ -112,14 +112,6 @@ with a paragraph to create a photo with a caption.
               <h3>Create Captions</h3>
               <p>Once the transcript has finished, you can click "Create captions". This will also take a moment to load.</p>
 
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE-1RzIRX8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
           </li>
 
           <!-- A new step -->
@@ -127,6 +119,14 @@ with a paragraph to create a photo with a caption.
             <div class="content">
               <h3>Edit Captions</h3>
               <p>Auto transription isn't perfect. If the words are hard for you to understand, they're hard for the program to understand. So you may need to edit the captions. You where the captions are in the timeline. Again, the program does its best, but where a new caption starts or ends may not make sense. You can change that. This step is ideal, but not always needed. Having mostly correct captions is more than nothing, so if you have a super long video and don't have time to perfect the captions that's ok. The auto captions work pretty well!</p> 
+           
+              <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE-1RzIRX8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
             </div>
           </li>
 
@@ -145,7 +145,9 @@ with a paragraph to create a photo with a caption.
               <p>Export your video as you normally would. You will see options for captions in the export window. You can burn the captions into the video, meaning they are always part of the video, or you can download them as a separate file.</p> 
             </div>
           </li> 
-       </ol>
+       
+        </ol>
+    
       </article>
 
     </div>
